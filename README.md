@@ -1,1 +1,2 @@
-* Atividades Programece
+# Atividades Programece
+Aulas Especialização - Pensamento Computacional
